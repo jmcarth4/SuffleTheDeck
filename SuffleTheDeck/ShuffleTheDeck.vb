@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2020
 'Shuffle the Deck
-'https://github.com/jmcarth4/ 
+'https://github.com/jmcarth4/SuffleTheDeck
 
 Option Explicit On
 Option Strict On
